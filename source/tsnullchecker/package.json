@@ -2,6 +2,7 @@
 	"name": "tsnullchecker",
 	"displayName": "TsNullChecker",
 	"description": "Generate if to check for null propagation",
+	"publisher": "programmCZE",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.31.0"
